@@ -1365,7 +1365,7 @@ PRODUCT_PACKAGES += \
     qcrilmsgtunnel \
     imssettings \
     FingerprintExtensionService \
-    PowerOffAlarm \
     TimeService \
+    PowerOffAlarm \
     WfdCommon \
     chargeonlymode
